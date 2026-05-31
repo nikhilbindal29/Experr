@@ -1,5 +1,4 @@
 # Project Name
-
 A modern and responsive web application built to provide a smooth user experience with clean UI and efficient performance.
 
 ## 🚀 Features
