@@ -13,6 +13,7 @@ A modern and responsive web application built to provide a smooth user experienc
 - Easy Deployment
 
 ## 🛠️ Tech Stack
+
 - HTML
 - CSS
 - JavaScript
