@@ -124,7 +124,7 @@ export default function Tasks() {
     const generateTask = async () => {
         try {
             const res = await fetch(
-                "https://ttweevkkvqpjzbmrnack.supabase.co/functions/v1/generate-task",
+                process.env.SUPABASE_URL,
                 {
                     method: "POST",
                     headers: {
