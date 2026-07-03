@@ -21,6 +21,11 @@ A modern and responsive web application built to provide a smooth user experienc
 - Python
 - REST API
 
+- 
+LOGIN ID: den8kl3t5c@wnbaldwy.com
+PASSWORD : cheche123
+
+
 ## 📂 Project Structure
 
 ```bash
@@ -33,7 +38,4 @@ project/
 │── package.json
 │── README.md
 
-
-LOGIN ID: den8kl3t5c@wnbaldwy.com
-PASSWORD : cheche123
 
